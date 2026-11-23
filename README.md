@@ -66,7 +66,3 @@ An AI-powered codebase assistant that uses **RAG and Gemini** to help developers
 
 </div>
 """
-
-path = Path("/mnt/data/README.md")
-path.write_text(content, encoding="utf-8")
-print(f"Created corrected Markdown README: {path}")
