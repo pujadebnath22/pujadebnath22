@@ -1,6 +1,3 @@
-from pathlib import Path
-
-content = """<div align="center">
 
 # Hi 👋, I'm Puja Debnath
 
